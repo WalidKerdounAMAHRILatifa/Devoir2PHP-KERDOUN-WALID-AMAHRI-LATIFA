@@ -1,0 +1,10 @@
+20121109-000002|CLI1004|11-09-2012|Haricots sec|5|6|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000002|CLI1004|11-09-2012|Lentilles Extra|1|6|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000002|CLI1004|11-09-2012|Huile d'olives|1|45|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000003|CLI1004|11-09-2012|Confiture Aicha 250 g|1|6|13-09-2012|1 Rue des Colibris Agadir
+20121109-000003|CLI1004|11-09-2012|Tomates|2|3|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000004|CLI1004|11-09-2012|Bananes|1|12|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000004|CLI1004|11-09-2012|Oignons|2|4|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000004|CLI1004|11-09-2012|Courgettes|2|3|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000004|CLI1004|11-09-2012|Pomme Golden|1|12|13-09-2012|31 Rue de l'universite Marrakech
+20121109-000004|CLI1004|11-09-2012|Bananes|1|12|13-09-2012|31 Rue de l'universite Marrakech
